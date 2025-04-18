@@ -15,6 +15,7 @@ The Driver Drowsiness Detection System is a real-time safety application designe
 
 <p>&nbsp;</p>
 
+
 🐍 Built with
 - OpenCV
 - Python
@@ -36,7 +37,7 @@ The Driver Drowsiness Detection System is a real-time safety application designe
 📦 Libraries Used
 - opencv-python
 
-- dlib / mediapipe
+- dlib [cmake]
 
 - imutils
 
@@ -48,6 +49,21 @@ The Driver Drowsiness Detection System is a real-time safety application designe
 ## 📸 Screenshot
 
 Here's how the app looks:
+<p>&nbsp;</p>
+Home-Page:<p>&nbsp;</p>
+![Home Page](https://github.com/user-attachments/assets/3151576c-815b-4ff7-881f-3aa1a8493064)
+<p>&nbsp;</p>
+Cam-Window:<p>&nbsp;</p>
+![Cam Window](https://github.com/user-attachments/assets/1ae2fc30-99c6-49d7-b67c-0681ae0d141f)
+<p>&nbsp;</p>
+Detection-System:<p>&nbsp;</p>
+![Detection System](https://github.com/user-attachments/assets/09832e17-fc85-4f25-a99f-30b6aa3499f7)
+<p>&nbsp;</p>
+Alarm-Alert Window:<p>&nbsp;</p>
+![Alarm Alert](https://github.com/user-attachments/assets/7ec138c9-bf96-432a-86db-0ac70f69823f)
+<p>&nbsp;</p>
 
-![App Screenshot](screenshot.png)
+This how the final project look.
+
+
 
