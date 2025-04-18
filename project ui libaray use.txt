@@ -1,0 +1,18 @@
+
+
+Phele Assests folder ko unzip karke usko main project folder main daal dena pura folder.
+
+or Home.py wali file ko bhi paste kar dena project folder ke under.
+
+
+Steps :
+1. Phele folder ke cmd main jaake conda activate project (same step karni purani walu).
+
+2.install libraries(
+pip install streamlit 
+pip install streamlit-lottie
+pip install results).
+
+
+3. iske baad start karne ke liye streamlit run Home.py likh ke enter karna hai 
+
